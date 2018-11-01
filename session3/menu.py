@@ -31,7 +31,7 @@
 mylist=["krghost","krdrive","krbuild"]
 # mylist.pop(1) #pop la xoa theo vi tri
 # print(mylist)
-# mylist.remove("krbuild")
+# mylist.remove("krbuild") # xoa theo noi dung
 # print(mylist)
 
 print(mylist)
